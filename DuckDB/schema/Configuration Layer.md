@@ -1,6 +1,3 @@
-Excellent — we’re down to the final schema layer! The **Configuration and Settings Layer** will define how we store and manage system-wide settings, user preferences, and trading parameters. This layer is crucial because it directly impacts how the system behaves under different configurations and user-defined rules.
-
----
 
 # 🚀 **Configuration and Settings Layer – Overview**  
 ✅ Purpose:  
